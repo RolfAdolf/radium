@@ -58,4 +58,4 @@ if __name__ == '__main__':
 
         directory = output_folder
 
-    print(f'Temporary folder {directory} has been deleted.')
+    print(f'Temporary folder {directory} has been deleted.\n')

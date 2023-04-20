@@ -1,7 +1,22 @@
 # Changelog
 
+## [1.0.3] - 2023-04-20
 
-## [0.0.2] - 2023-04-20
+### Added
+
+- Docker support
+- README.md
+
+### Fixed
+
+### Changed
+
+- README.md
+
+### Removed
+
+
+## [1.0.2] - 2023-04-20
 
 ### Added
 
@@ -21,7 +36,7 @@
 ### Removed
 
 
-## [0.0.1] - 2023-04-20
+## [1.0.1] - 2023-04-20
 
 ### Added
 

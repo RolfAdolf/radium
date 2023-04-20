@@ -30,3 +30,13 @@ pytest
 ```commandline
 coverage report
 ```
+
+## Use Docker
+
+### Run script in the docker-container
+
+```commandline
+docker build . -t test_script:latest
+
+docker run -it --rm --name try_script test_script
+```

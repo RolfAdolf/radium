@@ -5,7 +5,6 @@ description = "My solution to the test task for the Backend-developer vacancy fr
 authors = ["Devrishev Nadir"]
 license = "None"
 readme = "README.md"
-packages = [{include = "radium_test_task"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -13,6 +12,8 @@ aiohttp = "^3.8.4"
 requests = "^2.28.2"
 aiofile = "^3.8.5"
 nitpick = "^0.33.1"
+pytest = "^7.3.1"
+pytest-cov = "^4.0.0"
 
 
 [build-system]
