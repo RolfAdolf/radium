@@ -1,7 +1,5 @@
 # Radium test task
 
-My solution to the test task for the Backend-developer vacancy from the Radium company.
-
 ## Setup
 
 ```commandline
