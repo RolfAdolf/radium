@@ -1,4 +1,4 @@
-# Radium test task
+# Radium
 
 ## Setup
 
