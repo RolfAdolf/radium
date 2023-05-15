@@ -7,6 +7,7 @@ git clone https://github.com/RolfAdolf/radium_test_task.git
 
 cd radium_test_task
 
+poetry init
 poetry install
 ```
 
